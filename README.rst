@@ -2,7 +2,7 @@
 Breakout board for RAK811/RAK4200 LoRa adaptable nodes, small size, used when both AA battery holders were installed.
 =======================================================================================================================================
 
-Breakout board & prototype area to mount a few ( and small ) thru-hole components to interface LoRa node .Also can be used as a template for a custom interface board. 
+Breakout board & prototype area to mount a few ( and small ) thru-hole components to interface LoRa node. Also can be used as a template for a custom interface board. 
 
 Read this in other languages: `Español </docs/README.es.rst>`_
 
@@ -10,10 +10,10 @@ Read this in other languages: `Español </docs/README.es.rst>`_
 
 Key features:
 -------------
-* Double sided traces an pads for added strenght
-* Prototype area with two paralel tracks connecting multiple pads, to be used as a power&ground rails
-* Solder directly to the node's pcb using male header pins for a permanent, high strenght and low height card
-* Conect to the node's pcb using male-female header pins combination, for a more flexible solution
+* Double sided traces and pads for added strength
+* Prototype area with two parallel tracks connecting multiple pads, to be used as a power&ground rails
+* Solder directly to the node's pcb using male header pins for a permanent, rigid  and low height card
+* Connect to the node's pcb using male-female pin header combination, for a more flexible solution
 
 How to use this repository
 --------------------------
