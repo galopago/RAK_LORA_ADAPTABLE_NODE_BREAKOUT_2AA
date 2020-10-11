@@ -1,0 +1,2455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="61.470383mm"
+   height="13.210438mm"
+   viewBox="0 0 217.80844 46.808638"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="RAK_LORA_ADAPTABLE_NODE_BREAKOUT_2AA_PINOUT.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="97.210831"
+     inkscape:cy="28.033435"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(239.61851,-508.95788)">
+    <g
+       id="g6512">
+      <g
+         transform="matrix(0.00899999,0,0,0.00899999,-593.85827,154.71812)"
+         id="g4690">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g4648" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:-0.0003937;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g4650" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:19.68499947;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g4652">
+          <path
+             inkscape:connector-curvature="0"
+             d="m 39370,39370 0,5181"
+             id="path4654" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 63551,39370 0,5181"
+             id="path4656" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 39370,44551 24181,0"
+             id="path4658" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 39370,39370 24181,0"
+             id="path4660" />
+          <g
+             id="g4662" />
+          <g
+             id="g4664" />
+          <g
+             id="g4666" />
+          <g
+             id="g4668" />
+          <g
+             id="g4670" />
+          <g
+             id="g4672" />
+          <g
+             id="g4674" />
+          <g
+             id="g4676" />
+          <g
+             id="g4678" />
+          <g
+             id="g4680" />
+          <g
+             id="g4682" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.00899999,0,0,0.00899999,-593.85919,154.72007)"
+         id="g5914">
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g4716" />
+        <g
+           style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:-0.0003937;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g4718">
+          <g
+             id="g4720" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4722">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 49960,39960 0,0"
+               id="path4724" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 48960,39960 0,0"
+               id="path4726" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 47960,39960 0,0"
+               id="path4728" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 46960,39960 0,0"
+               id="path4730" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 45960,39960 0,0"
+               id="path4732" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 44960,39960 0,0"
+               id="path4734" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 43960,39960 0,0"
+               id="path4736" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 42960,39960 0,0"
+               id="path4738" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 41960,39960 0,0"
+               id="path4740" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 40960,39960 0,0"
+               id="path4742" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4744">
+            <circle
+               cx="39960.602"
+               cy="39960.602"
+               r="334.646"
+               id="circle4746" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4748" />
+          <g
+             id="g4750" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4752" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4754" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4756">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 49960,40960 0,0"
+               id="path4758" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 48960,40960 0,0"
+               id="path4760" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 47960,40960 0,0"
+               id="path4762" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 46960,40960 0,0"
+               id="path4764" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 45960,40960 0,0"
+               id="path4766" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 44960,40960 0,0"
+               id="path4768" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 43960,40960 0,0"
+               id="path4770" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 42960,40960 0,0"
+               id="path4772" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 41960,40960 0,0"
+               id="path4774" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 40960,40960 0,0"
+               id="path4776" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4778">
+            <circle
+               cx="39960.602"
+               cy="40960.602"
+               r="334.646"
+               id="circle4780" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4782" />
+          <g
+             id="g4784" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4786" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4788" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4790">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 49960,41960 0,0"
+               id="path4792" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 48960,41960 0,0"
+               id="path4794" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 47960,41960 0,0"
+               id="path4796" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 46960,41960 0,0"
+               id="path4798" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 45960,41960 0,0"
+               id="path4800" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 44960,41960 0,0"
+               id="path4802" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 43960,41960 0,0"
+               id="path4804" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 42960,41960 0,0"
+               id="path4806" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 41960,41960 0,0"
+               id="path4808" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 40960,41960 0,0"
+               id="path4810" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4812">
+            <circle
+               cx="39960.602"
+               cy="41960.602"
+               r="334.646"
+               id="circle4814" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4816" />
+          <g
+             id="g4818" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4820" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4822" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4824">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 49960,42960 0,0"
+               id="path4826" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 48960,42960 0,0"
+               id="path4828" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 47960,42960 0,0"
+               id="path4830" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 46960,42960 0,0"
+               id="path4832" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 45960,42960 0,0"
+               id="path4834" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 44960,42960 0,0"
+               id="path4836" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 43960,42960 0,0"
+               id="path4838" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 42960,42960 0,0"
+               id="path4840" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 41960,42960 0,0"
+               id="path4842" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 40960,42960 0,0"
+               id="path4844" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4846">
+            <circle
+               cx="39960.602"
+               cy="42960.602"
+               r="334.646"
+               id="circle4848" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4850" />
+          <g
+             id="g4852" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4854" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4856" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4858">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 49960,43960 0,0"
+               id="path4860" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 48960,43960 0,0"
+               id="path4862" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 47960,43960 0,0"
+               id="path4864" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 46960,43960 0,0"
+               id="path4866" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 45960,43960 0,0"
+               id="path4868" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 44960,43960 0,0"
+               id="path4870" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 43960,43960 0,0"
+               id="path4872" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 42960,43960 0,0"
+               id="path4874" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 41960,43960 0,0"
+               id="path4876" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 40960,43960 0,0"
+               id="path4878" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4880">
+            <circle
+               cx="39960.602"
+               cy="43960.602"
+               r="334.646"
+               id="circle4882" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4884" />
+          <g
+             id="g4886" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4888" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4890" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4892">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 50960,43960 0,0"
+               id="path4894" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 51960,43960 0,0"
+               id="path4896" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 52960,43960 0,0"
+               id="path4898" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 53960,43960 0,0"
+               id="path4900" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 54960,43960 0,0"
+               id="path4902" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 55960,43960 0,0"
+               id="path4904" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 56960,43960 0,0"
+               id="path4906" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 57960,43960 0,0"
+               id="path4908" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 58960,43960 0,0"
+               id="path4910" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 59960,43960 0,0"
+               id="path4912" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 60960,43960 0,0"
+               id="path4914" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 61960,43960 0,0"
+               id="path4916" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4918">
+            <circle
+               cx="62960.602"
+               cy="43960.602"
+               r="334.646"
+               id="circle4920" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4922" />
+          <g
+             id="g4924" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4926" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4928" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4930">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 50960,42960 0,0"
+               id="path4932" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 51960,42960 0,0"
+               id="path4934" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 52960,42960 0,0"
+               id="path4936" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 53960,42960 0,0"
+               id="path4938" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 54960,42960 0,0"
+               id="path4940" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 55960,42960 0,0"
+               id="path4942" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 56960,42960 0,0"
+               id="path4944" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 57960,42960 0,0"
+               id="path4946" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 58960,42960 0,0"
+               id="path4948" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 59960,42960 0,0"
+               id="path4950" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 60960,42960 0,0"
+               id="path4952" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 61960,42960 0,0"
+               id="path4954" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4956">
+            <circle
+               cx="62960.602"
+               cy="42960.602"
+               r="334.646"
+               id="circle4958" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4960" />
+          <g
+             id="g4962" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4964" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4966" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4968">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 50960,41960 0,0"
+               id="path4970" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 51960,41960 0,0"
+               id="path4972" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 52960,41960 0,0"
+               id="path4974" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 53960,41960 0,0"
+               id="path4976" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 54960,41960 0,0"
+               id="path4978" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 55960,41960 0,0"
+               id="path4980" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 56960,41960 0,0"
+               id="path4982" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 57960,41960 0,0"
+               id="path4984" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 58960,41960 0,0"
+               id="path4986" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 59960,41960 0,0"
+               id="path4988" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 60960,41960 0,0"
+               id="path4990" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 61960,41960 0,0"
+               id="path4992" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4994">
+            <circle
+               cx="62960.602"
+               cy="41960.602"
+               r="334.646"
+               id="circle4996" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g4998" />
+          <g
+             id="g5000" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g5002" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g5004" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g5006">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 50960,40960 0,0"
+               id="path5008" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 51960,40960 0,0"
+               id="path5010" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 52960,40960 0,0"
+               id="path5012" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 53960,40960 0,0"
+               id="path5014" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 54960,40960 0,0"
+               id="path5016" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 55960,40960 0,0"
+               id="path5018" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 56960,40960 0,0"
+               id="path5020" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 57960,40960 0,0"
+               id="path5022" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 58960,40960 0,0"
+               id="path5024" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 59960,40960 0,0"
+               id="path5026" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 60960,40960 0,0"
+               id="path5028" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 61960,40960 0,0"
+               id="path5030" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g5032">
+            <circle
+               cx="62960.602"
+               cy="40960.602"
+               r="334.646"
+               id="circle5034" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g5036" />
+          <g
+             id="g5038" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g5040" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g5042" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:669.29101562;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g5044">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 50960,39960 0,0"
+               id="path5046" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 51960,39960 0,0"
+               id="path5048" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 52960,39960 0,0"
+               id="path5050" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 53960,39960 0,0"
+               id="path5052" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 54960,39960 0,0"
+               id="path5054" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 55960,39960 0,0"
+               id="path5056" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 56960,39960 0,0"
+               id="path5058" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 57960,39960 0,0"
+               id="path5060" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 58960,39960 0,0"
+               id="path5062" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 59960,39960 0,0"
+               id="path5064" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 60960,39960 0,0"
+               id="path5066" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 61960,39960 0,0"
+               id="path5068" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g5070">
+            <circle
+               cx="62960.602"
+               cy="39960.602"
+               r="334.646"
+               id="circle5072" />
+          </g>
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g5074" />
+          <g
+             id="g5076" />
+          <g
+             id="g5078" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g5080" />
+          <g
+             style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:295.27600098;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g5082" />
+          <g
+             style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:295.27600098;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+             id="g5084">
+            <path
+               inkscape:connector-curvature="0"
+               d="m 50960,39960 1000,0"
+               id="path5086" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 52960,39960 0,1000"
+               id="path5088" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 54960,39960 0,1000"
+               id="path5090" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 56960,39960 0,1000"
+               id="path5092" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 58960,39960 0,1000"
+               id="path5094" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 60960,39960 0,1000"
+               id="path5096" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 61960,39960 1000,0"
+               id="path5098" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 53960,40960 0,-1000"
+               id="path5100" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 55960,40960 0,-1000"
+               id="path5102" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 57960,40960 0,-1000"
+               id="path5104" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 59960,40960 0,-1000"
+               id="path5106" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 51960,40960 -1000,0"
+               id="path5108" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 62960,40960 -1000,0"
+               id="path5110" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 50960,41960 1000,0"
+               id="path5112" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 61960,41960 1000,0"
+               id="path5114" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 51960,42960 -1000,0"
+               id="path5116" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 52960,42960 0,1000"
+               id="path5118" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 54960,42960 0,1000"
+               id="path5120" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 56960,42960 0,1000"
+               id="path5122" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 58960,42960 0,1000"
+               id="path5124" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 60960,42960 0,1000"
+               id="path5126" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 62960,42960 -1000,0"
+               id="path5128" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 53960,43960 0,-1000"
+               id="path5130" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 55960,43960 0,-1000"
+               id="path5132" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 57960,43960 0,-1000"
+               id="path5134" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 59960,43960 0,-1000"
+               id="path5136" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 50960,43960 1000,0"
+               id="path5138" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 61960,43960 1000,0"
+               id="path5140" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 39960,41960 1000,0"
+               id="path5142" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 40960,41960 1000,0"
+               id="path5144" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 41960,41960 1000,0"
+               id="path5146" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 42960,41960 1000,0"
+               id="path5148" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 43960,41960 1000,0"
+               id="path5150" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 44960,41960 1000,0"
+               id="path5152" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 45960,41960 1000,0"
+               id="path5154" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 46960,41960 1000,0"
+               id="path5156" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 47960,41960 1000,0"
+               id="path5158" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 48960,41960 1000,0"
+               id="path5160" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 49960,40960 -1000,0"
+               id="path5162" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 48960,40960 -1000,0"
+               id="path5164" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 47960,40960 -1000,0"
+               id="path5166" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 46960,40960 -1000,0"
+               id="path5168" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 45960,40960 -1000,0"
+               id="path5170" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 44960,40960 -1000,0"
+               id="path5172" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 43960,40960 -1000,0"
+               id="path5174" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 42960,40960 -1000,0"
+               id="path5176" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 41960,40960 -1000,0"
+               id="path5178" />
+            <path
+               inkscape:connector-curvature="0"
+               d="m 40960,40960 -1000,0"
+               id="path5180" />
+          </g>
+          <g
+             id="g5182" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:295.27600098;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5184" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5186">
+          <circle
+             cx="49960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5188" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5190" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5192">
+          <circle
+             cx="48960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5194" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5196" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5198">
+          <circle
+             cx="47960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5200" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5202" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5204">
+          <circle
+             cx="46960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5206" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5208" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5210">
+          <circle
+             cx="45960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5212" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5214" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5216">
+          <circle
+             cx="44960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5218" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5220" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5222">
+          <circle
+             cx="43960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5224" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5226" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5228">
+          <circle
+             cx="42960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5230" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5232" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5234">
+          <circle
+             cx="41960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5236" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5238" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5240">
+          <circle
+             cx="40960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5242" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5244" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5246">
+          <circle
+             cx="39960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5248" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5250" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5252">
+          <circle
+             cx="49960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5254" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5256" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5258">
+          <circle
+             cx="48960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5260" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5262" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5264">
+          <circle
+             cx="47960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5266" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5268" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5270">
+          <circle
+             cx="46960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5272" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5274" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5276">
+          <circle
+             cx="45960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5278" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5280" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5282">
+          <circle
+             cx="44960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5284" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5286" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5288">
+          <circle
+             cx="43960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5290" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5292" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5294">
+          <circle
+             cx="42960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5296" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5298" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5300">
+          <circle
+             cx="41960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5302" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5304" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5306">
+          <circle
+             cx="40960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5308" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5310" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5312">
+          <circle
+             cx="39960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5314" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5316" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5318">
+          <circle
+             cx="49960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5320" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5322" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5324">
+          <circle
+             cx="48960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5326" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5328" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5330">
+          <circle
+             cx="47960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5332" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5334" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5336">
+          <circle
+             cx="46960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5338" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5340" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5342">
+          <circle
+             cx="45960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5344" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5346" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5348">
+          <circle
+             cx="44960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5350" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5352" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5354">
+          <circle
+             cx="43960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5356" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5358" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5360">
+          <circle
+             cx="42960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5362" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5364" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5366">
+          <circle
+             cx="41960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5368" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5370" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5372">
+          <circle
+             cx="40960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5374" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5376" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5378">
+          <circle
+             cx="39960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5380" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5382" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5384">
+          <circle
+             cx="49960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5386" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5388" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5390">
+          <circle
+             cx="48960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5392" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5394" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5396">
+          <circle
+             cx="47960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5398" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5400" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5402">
+          <circle
+             cx="46960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5404" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5406" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5408">
+          <circle
+             cx="45960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5410" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5412" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5414">
+          <circle
+             cx="44960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5416" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5418" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5420">
+          <circle
+             cx="43960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5422" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5424" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5426">
+          <circle
+             cx="42960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5428" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5430" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5432">
+          <circle
+             cx="41960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5434" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5436" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5438">
+          <circle
+             cx="40960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5440" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5442" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5444">
+          <circle
+             cx="39960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5446" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5448" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5450">
+          <circle
+             cx="49960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5452" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5454" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5456">
+          <circle
+             cx="48960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5458" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5460" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5462">
+          <circle
+             cx="47960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5464" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5466" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5468">
+          <circle
+             cx="46960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5470" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5472" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5474">
+          <circle
+             cx="45960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5476" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5478" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5480">
+          <circle
+             cx="44960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5482" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5484" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5486">
+          <circle
+             cx="43960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5488" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5490" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5492">
+          <circle
+             cx="42960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5494" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5496" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5498">
+          <circle
+             cx="41960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5500" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5502" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5504">
+          <circle
+             cx="40960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5506" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5508" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5510">
+          <circle
+             cx="39960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5512" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5514" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5516">
+          <circle
+             cx="50960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5518" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5520" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5522">
+          <circle
+             cx="51960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5524" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5526" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5528">
+          <circle
+             cx="52960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5530" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5532" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5534">
+          <circle
+             cx="53960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5536" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5538" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5540">
+          <circle
+             cx="54960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5542" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5544" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5546">
+          <circle
+             cx="55960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5548" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5550" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5552">
+          <circle
+             cx="56960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5554" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5556" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5558">
+          <circle
+             cx="57960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5560" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5562" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5564">
+          <circle
+             cx="58960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5566" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5568" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5570">
+          <circle
+             cx="59960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5572" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5574" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5576">
+          <circle
+             cx="60960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5578" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5580" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5582">
+          <circle
+             cx="61960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5584" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5586" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5588">
+          <circle
+             cx="62960.602"
+             cy="43960.602"
+             r="196.85001"
+             id="circle5590" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5592" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5594">
+          <circle
+             cx="50960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5596" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5598" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5600">
+          <circle
+             cx="51960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5602" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5604" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5606">
+          <circle
+             cx="52960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5608" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5610" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5612">
+          <circle
+             cx="53960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5614" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5616" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5618">
+          <circle
+             cx="54960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5620" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5622" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5624">
+          <circle
+             cx="55960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5626" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5628" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5630">
+          <circle
+             cx="56960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5632" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5634" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5636">
+          <circle
+             cx="57960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5638" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5640" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5642">
+          <circle
+             cx="58960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5644" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5646" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5648">
+          <circle
+             cx="59960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5650" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5652" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5654">
+          <circle
+             cx="60960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5656" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5658" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5660">
+          <circle
+             cx="61960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5662" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5664" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5666">
+          <circle
+             cx="62960.602"
+             cy="42960.602"
+             r="196.85001"
+             id="circle5668" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5670" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5672">
+          <circle
+             cx="50960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5674" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5676" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5678">
+          <circle
+             cx="51960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5680" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5682" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5684">
+          <circle
+             cx="52960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5686" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5688" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5690">
+          <circle
+             cx="53960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5692" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5694" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5696">
+          <circle
+             cx="54960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5698" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5700" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5702">
+          <circle
+             cx="55960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5704" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5706" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5708">
+          <circle
+             cx="56960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5710" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5712" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5714">
+          <circle
+             cx="57960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5716" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5718" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5720">
+          <circle
+             cx="58960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5722" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5724" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5726">
+          <circle
+             cx="59960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5728" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5730" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5732">
+          <circle
+             cx="60960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5734" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5736" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5738">
+          <circle
+             cx="61960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5740" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5742" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5744">
+          <circle
+             cx="62960.602"
+             cy="41960.602"
+             r="196.85001"
+             id="circle5746" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5748" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5750">
+          <circle
+             cx="50960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5752" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5754" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5756">
+          <circle
+             cx="51960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5758" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5760" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5762">
+          <circle
+             cx="52960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5764" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5766" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5768">
+          <circle
+             cx="53960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5770" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5772" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5774">
+          <circle
+             cx="54960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5776" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5778" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5780">
+          <circle
+             cx="55960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5782" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5784" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5786">
+          <circle
+             cx="56960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5788" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5790" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5792">
+          <circle
+             cx="57960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5794" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5796" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5798">
+          <circle
+             cx="58960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5800" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5802" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5804">
+          <circle
+             cx="59960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5806" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5808" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5810">
+          <circle
+             cx="60960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5812" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5814" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5816">
+          <circle
+             cx="61960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5818" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5820" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5822">
+          <circle
+             cx="62960.602"
+             cy="40960.602"
+             r="196.85001"
+             id="circle5824" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5826" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5828">
+          <circle
+             cx="50960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5830" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5832" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5834">
+          <circle
+             cx="51960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5836" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5838" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5840">
+          <circle
+             cx="52960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5842" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5844" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5846">
+          <circle
+             cx="53960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5848" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5850" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5852">
+          <circle
+             cx="54960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5854" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5856" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5858">
+          <circle
+             cx="55960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5860" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5862" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5864">
+          <circle
+             cx="56960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5866" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5868" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5870">
+          <circle
+             cx="57960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5872" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5874" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5876">
+          <circle
+             cx="58960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5878" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5880" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5882">
+          <circle
+             cx="59960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5884" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5886" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5888">
+          <circle
+             cx="60960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5890" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5892" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5894">
+          <circle
+             cx="61960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5896" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5898" />
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5900">
+          <circle
+             cx="62960.602"
+             cy="39960.602"
+             r="196.85001"
+             id="circle5902" />
+        </g>
+        <g
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5904" />
+        <g
+           style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:39.37009811;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+           id="g5906" />
+      </g>
+    </g>
+  </g>
+</svg>
